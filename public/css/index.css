@@ -1,5 +1,5 @@
 h1 {
-    color: blue;
+    background-color: blue;
 }
 
 .green {
@@ -11,11 +11,11 @@ h1 {
 }
 
 .box p {
-    color: red;
+    background-color: red;
 }
 
 .box div {
-    color: green;
+    background-color: green;
 }
 
 .brown {
@@ -109,7 +109,7 @@ button[class|='secondary']{
 .lesson-three-task-nine h2::first-letter{
     color: red;
 }
-.lesson-three-task-ten p::first-line{
+.lesson-three-task-ten::first-line{
     background: yellow;
 }
 .lesson-three-task-eleven input::placeholder{
